@@ -30,4 +30,4 @@ streamlit run app.py
 Streamlit перезапускает весь скрипт сверху вниз.
 
 ## Деплой
-Приложение задеплоено на Streamlit Community Cloud: https://ypn5nbx7m9czerloduu3v6.streamlit.app/
+Приложение задеплоено на Streamlit Community Cloud: https://cljzzxpuknqsebjgpazcmt.streamlit.app/
